@@ -67,6 +67,18 @@
             <artifactId>ruoyi-generator</artifactId>
         </dependency>
 
+        <!--  环信 IM-->
+        <dependency>
+            <groupId>com.easemob.im</groupId>
+            <artifactId>im-sdk-core</artifactId>
+        </dependency>
+
+        <!--  阿里 oss-->
+        <dependency>
+            <groupId>com.aliyun.oss</groupId>
+            <artifactId>aliyun-sdk-oss</artifactId>
+        </dependency>
+
     </dependencies>
 
     <build>
